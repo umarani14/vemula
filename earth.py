@@ -1,7 +1,7 @@
 # This program adds two numbers
 
-num1 = 1.6
-num2 = 6.4
+num1 = 1
+num2 = 6
 # Add two numbers
 sum = float(num1) + float(num2)
 # Display the sum
